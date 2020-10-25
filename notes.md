@@ -13,5 +13,5 @@
 
 # Topic Model 2
   In the second set of documents provided I looked for the same key works and found this:
-  ![Image](Pop_Model2.jpg)
+  ![Image](Pop_Model2.jpg) 
   Here there is more spikes in the data throughout time, however, they do match the times when the overpopulation theory was popular/when the publications happened. Because this is a more diverse database I would assume that this would not be the only thing impacting the spikes happening during these times. 
